@@ -1,0 +1,14 @@
+.text-field-style {
+  -fx-alignment: center;
+  -fx-font-family: "Arial Bold";
+  -fx-font-size: 25.0;
+  -fx-pref-height: 60.0;
+  -fx-pref-width: 60.0;
+}
+
+
+.anchorPane {
+  /* -fx-background-image: url('../sdk_img_type1.jpg'); */
+  -fx-background-size: 100% 100%;
+  -fx-background-color: white;
+}
